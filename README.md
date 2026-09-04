@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
