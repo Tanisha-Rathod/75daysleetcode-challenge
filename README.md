@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0136-single-number) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
