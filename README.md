@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0136-single-number) |
+| [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
