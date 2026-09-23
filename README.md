@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
