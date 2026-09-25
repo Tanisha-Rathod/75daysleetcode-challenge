@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Newton's Method
 |  |
 | ------- |
