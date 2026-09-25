@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
