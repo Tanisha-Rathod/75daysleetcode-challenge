@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
@@ -171,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
