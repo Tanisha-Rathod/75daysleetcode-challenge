@@ -1,43 +1,26 @@
 class Solution {
     public int maxConsecutiveAnswers(String answer, int k) {
-        // Two pass sliding window 
-        int i=0;
-        int j =0;
-        int result = 0;
-        int countF = 0;
-        int n = answer.length();
-        while(j<n){
-            if(answer.charAt(j)=='F'){
-countF++;
-            }
-            while(countF>k){
-                if(answer.charAt(i)=='F'){
-                    countF--;
-                }
-                i++;
-            }
-            result = Math.max(result, j-i+1);
-            j++;
-        }
+    int i=0;
+    int j =0;
+    int n = answer.length();
+    int result = 0;
+    Map< Character,Integer>map = new HashMap<>();
+    while(j<n){
+        //insert freq
+map.put(answer.charAt(j), map.getOrDefault(answer.charAt(j),0)+1);
+    
+//invalid window
+while(Math.min(map.getOrDefault('T',0), map.getOrDefault('F',0))>k){
+    char left = answer.charAt(i);
+    map.put(left, map.get(left)-1);
+    i++;
+}
+    
+result = Math.max(result, j-i+1);
+j++;
 
-
-        i=0;
-        j=0;
-        int countT=0;
-        while(j<n){
-            if(answer.charAt(j)=='T'){
-countT++;
-            }
-            
-            while(countT>k){
-                if(answer.charAt(i)=='T'){
-                    countT--;
-                }
-                i++;
-            }
-            result = Math.max(result, j-i+1);
-            j++;
-        }
-         return result;
+    }
+return result;
+        
     }
 }
