@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Newton's Method
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2487-remove-nodes-from-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
