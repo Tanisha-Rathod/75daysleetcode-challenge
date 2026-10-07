@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
