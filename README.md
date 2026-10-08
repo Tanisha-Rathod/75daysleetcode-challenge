@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0142-linked-list-cycle-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
