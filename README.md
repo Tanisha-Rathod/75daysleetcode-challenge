@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2090-k-radius-subarray-averages](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2090-k-radius-subarray-averages) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -206,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2090-k-radius-subarray-averages](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
