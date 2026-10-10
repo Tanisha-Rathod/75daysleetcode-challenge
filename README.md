@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0242-valid-anagram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
