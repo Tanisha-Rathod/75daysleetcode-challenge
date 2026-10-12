@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
