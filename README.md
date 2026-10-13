@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2090-k-radius-subarray-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0242-valid-anagram) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
