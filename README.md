@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1052-grumpy-bookstore-owner) |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0136-single-number) |
+| [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -232,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
