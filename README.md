@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
+| [0977-squares-of-a-sorted-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
