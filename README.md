@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1052-grumpy-bookstore-owner) |
+| [1219-path-with-maximum-gold](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1219-path-with-maximum-gold) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2090-k-radius-subarray-averages) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1219-path-with-maximum-gold) |
 ## Hamiltonian Path
 |  |
 | ------- |
