@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0491-non-decreasing-subsequences) |
 | [0682-baseball-game](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0682-baseball-game) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
