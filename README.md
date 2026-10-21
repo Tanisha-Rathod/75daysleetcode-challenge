@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0141-linked-list-cycle) |
