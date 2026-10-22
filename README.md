@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1219-path-with-maximum-gold) |
