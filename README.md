@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0069-sqrtx) |
+| [1360-number-of-days-between-two-dates](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1360-number-of-days-between-two-dates) |
 | [2409-count-days-spent-together](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2409-count-days-spent-together) |
 ## Simulation
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1360-number-of-days-between-two-dates) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2409-count-days-spent-together](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2409-count-days-spent-together) |
