@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2090-k-radius-subarray-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1219-path-with-maximum-gold) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -275,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
