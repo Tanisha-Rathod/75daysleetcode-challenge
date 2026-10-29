@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0994-rotting-oranges) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1052-grumpy-bookstore-owner) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1219-path-with-maximum-gold) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
