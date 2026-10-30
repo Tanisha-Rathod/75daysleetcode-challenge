@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -282,5 +285,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanisha-Rathod/75daysleetcode-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
